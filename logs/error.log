@@ -1,0 +1,29 @@
+2023/10/31 13:06:50 [emerg] 9355#0: open() "/root/work/lghproxy/jsproxy/./mime.types" failed (2: No such file or directory) in /root/work/lghproxy/jsproxy/nginx.conf:12
+2023/10/31 13:07:08 [emerg] 9372#0: "proxy_cache" zone "my_cache" is unknown in /root/work/lghproxy/jsproxy/nginx.conf:158
+2023/10/31 13:09:13 [emerg] 9410#0: "proxy_cache_path" directive is not allowed here in /root/work/lghproxy/jsproxy/nginx.conf:62
+2023/10/31 13:10:15 [warn] 9459#0: lua_load_resty_core is deprecated (the lua-resty-core library is required since ngx_lua v0.10.16) in /root/work/lghproxy/jsproxy/nginx.conf:45
+2023/10/31 13:10:15 [emerg] 9459#0: "map" directive is not allowed here in /root/work/lghproxy/jsproxy/nginx.conf:75
+2023/10/31 13:14:58 [notice] 9651#0: signal process started
+2023/10/31 13:53:28 [notice] 15095#0: signal process started
+2023/10/31 14:24:22 [notice] 16737#0: signal process started
+2023/10/31 14:25:18 [notice] 16778#0: signal process started
+2023/10/31 14:26:36 [notice] 16878#0: signal process started
+2023/10/31 14:35:06 [notice] 17406#0: signal process started
+2023/10/31 14:43:31 [notice] 17633#0: signal process started
+2023/10/31 14:45:50 [notice] 17747#0: signal process started
+2023/10/31 14:46:17 [notice] 17798#0: signal process started
+2023/10/31 15:01:02 [notice] 18256#0: signal process started
+2023/10/31 15:46:16 [notice] 19803#0: signal process started
+2023/10/31 16:07:34 [notice] 21362#0: signal process started
+2023/10/31 16:15:26 [notice] 21771#0: signal process started
+2023/11/01 12:22:54 [notice] 30328#0: signal process started
+2023/11/01 12:28:01 [notice] 30393#0: signal process started
+2023/11/01 12:29:39 [notice] 30471#0: signal process started
+2023/11/01 12:30:26 [notice] 30548#0: signal process started
+2023/11/01 12:34:15 [notice] 30797#0: signal process started
+2023/11/01 12:35:08 [notice] 30827#0: signal process started
+2023/11/01 14:04:28 [notice] 25994#0: signal process started
+2023/11/01 14:25:26 [notice] 28789#0: signal process started
+2023/11/01 14:29:35 [notice] 29059#0: signal process started
+2023/11/01 14:33:04 [notice] 29319#0: signal process started
+2023/11/01 14:35:20 [notice] 29507#0: signal process started
